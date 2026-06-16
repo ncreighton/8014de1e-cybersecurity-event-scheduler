@@ -1,2 +1,28 @@
-# 8014de1e-cybersecurity-event-scheduler
-Built for cybersecurity professionals who are tired of missing messages, manually responding to routine requests at all hours.  24/7 operation — runs on your server or scales to any hosting platform. Easy setup: invite → configure → active in under 10 minutes.  ## What's Included  - Cybersecurity Event Scheduler And Rsvp Manager — fully configured
+# Cybersecurity Event Scheduler and RSVP Manager Bot
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/cNicN58v55wgaNObzScZs2N)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/cNicN58v55wgaNObzScZs2N)
+
